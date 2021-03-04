@@ -2,7 +2,7 @@
 title: Pagina Principal
 description: 
 published: true
-date: 2021-03-04T12:57:35.354Z
+date: 2021-03-04T12:59:37.160Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-04T12:36:58.869Z
@@ -10,4 +10,4 @@ dateCreated: 2021-03-04T12:36:58.869Z
 
 # Patagonia Libre
 
-TBD
+Somos un grupo de comunidades de la Patagonia Argentina que nos unimos para organizar el FLISoL 2021.
