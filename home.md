@@ -2,7 +2,7 @@
 title: Pagina Principal
 description: 
 published: true
-date: 2021-03-04T22:35:36.526Z
+date: 2021-03-04T22:38:55.035Z
 tags: 
 editor: markdown
 dateCreated: 2021-03-04T12:36:58.869Z
@@ -10,10 +10,10 @@ dateCreated: 2021-03-04T12:36:58.869Z
 
 # Patagonia Libre
 
-Somos un grupo de comunidades de la Patagonia Argentina que nos unimos para organizar el FLISoL 2021.
+Somos un grupo de comunidades de la Patagonia Argentina que nos unimos para organizar el FLISoL regional.
 
-Grupos de trabajo:
+Trabajamos de forma horizontal y descentralizada. Promovemos el software y la cultura libres.
 
-[Infraestructura](/flisol2021/infraestructura)
+Proyectos activos:
 
-[Charlas](/flisol2021/charlas)
+[FLISoL 2021](/flisol2021)
