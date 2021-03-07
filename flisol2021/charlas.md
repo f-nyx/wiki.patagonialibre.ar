@@ -2,7 +2,7 @@
 title: Charlas
 description: Acá coordinamos las charlas
 published: true
-date: 2021-03-07T20:58:30.184Z
+date: 2021-03-07T21:02:27.457Z
 tags: flisol, flisol2021
 editor: markdown
 dateCreated: 2021-03-07T20:25:48.037Z
@@ -11,6 +11,8 @@ dateCreated: 2021-03-07T20:25:48.037Z
 # Charlas
 
 En este grupo coordinamos la charlas, paneles, talleres, etc.
+
+Contacto: [nyx](https://t.me/matias_mi) y [Pablo](https://t.me/pkoro).
 
 ## Llamada a charlas
 
