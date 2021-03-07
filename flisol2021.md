@@ -2,7 +2,7 @@
 title: FLISoL 2021
 description: 
 published: true
-date: 2021-03-07T21:21:39.485Z
+date: 2021-03-07T21:40:46.507Z
 tags: flisol, flisol2021
 editor: markdown
 dateCreated: 2021-03-04T13:44:31.641Z
