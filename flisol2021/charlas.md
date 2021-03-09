@@ -2,7 +2,7 @@
 title: Charlas
 description: Acá coordinamos las charlas
 published: true
-date: 2021-03-07T21:02:27.457Z
+date: 2021-03-09T21:45:40.525Z
 tags: flisol, flisol2021
 editor: markdown
 dateCreated: 2021-03-07T20:25:48.037Z
@@ -55,6 +55,7 @@ La duración de los paneles es de **60 minutos**.
 
 Habrá **10 minutos de receso** entre cada actividad.
 
+**Total de charlas por track por dia: 8**
 
 ## Intervalo
 
