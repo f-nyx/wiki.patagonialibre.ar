@@ -2,7 +2,7 @@
 title: Charlas
 description: Acá coordinamos las charlas
 published: true
-date: 2021-03-09T21:45:40.525Z
+date: 2021-03-10T01:00:41.963Z
 tags: flisol, flisol2021
 editor: markdown
 dateCreated: 2021-03-07T20:25:48.037Z
@@ -10,9 +10,17 @@ dateCreated: 2021-03-07T20:25:48.037Z
 
 # Charlas
 
-En este grupo coordinamos la charlas, paneles, talleres, etc.
+En este grupo coordinamos la charlas, paneles, talleres, etc. Hay que realizar las siguientes tareas:
 
-Contacto: [nyx](https://t.me/matias_mi) y [Pablo](https://t.me/pkoro).
+* Carga y gestión de charlas en Eventol
+* Armado tracks
+* Acompañamiento de oradorxs, revisión de contenido
+* Background check de oradorxs
+* Armado de llamada a charlas
+* Presencia en los tracks el día del evento
+* Definir el formato de las charlas
+
+Grupo de Telegram para unirse: https://t.me/FLISoLPatagonia2021Charlas
 
 ## Llamada a charlas
 
