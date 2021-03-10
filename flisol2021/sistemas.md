@@ -2,7 +2,7 @@
 title: Sistemas
 description: Organizacion de la infra para el FLISoL 2021
 published: true
-date: 2021-03-10T00:49:33.648Z
+date: 2021-03-10T00:49:48.543Z
 tags: flisol, flisol2021
 editor: markdown
 dateCreated: 2021-03-07T19:27:31.262Z
@@ -10,7 +10,7 @@ dateCreated: 2021-03-07T19:27:31.262Z
 
 # Sistemas
 
-El grupo de infraestructura tiene que resolver los siguientes temas:
+El grupo de sistemas tiene que resolver los siguientes temas:
 
 * Procurar usar software libre
 * Salas virtuales (para los tracks)
