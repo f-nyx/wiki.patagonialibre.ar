@@ -2,7 +2,7 @@
 title: FLISoL 2021
 description: 
 published: true
-date: 2021-03-07T21:40:46.507Z
+date: 2021-03-10T00:56:07.607Z
 tags: flisol, flisol2021
 editor: markdown
 dateCreated: 2021-03-04T13:44:31.641Z
@@ -37,8 +37,8 @@ Hasta el momento, tenemos los siguientes grupos de trabajo:
 
 | Grupo | Descripción
 |-------|---------
-| [Infraestructura](/flisol2021/infra) | Es responsable de definir y mantener la infra para la coordinación y para el evento.
+| [Sistemas](/flisol2021/sistemas) | Es responsable de definir y mantener los sistemas para la coordinación y para el evento.
 | [Charlas](/flisol2021/charlas) | Gestiona las charlas, los tracks, y realiza la llamada a charlas.
 | [Comunicación y Difusión](/flisol2021/comunicacion) | Creación de contenido para difusión, gestión de las redes sociales, convocatoria a comunidades e instituciones.
-| [Dinámica del evento](/flisol2021/dinamica) | Define todo lo relativo a cómo va a desarrollarse el evento online los días del evento.
-| [Instalaciones](/flisol2021/instalaciones) | Grupo de instaladorxs.
+| [Institucional](/flisol2021/dinamica) | Define todo lo relativo a cómo va a desarrollarse el evento online los días del evento.
+| [Universidades](/flisol2021/instalaciones) | Grupo de articulación con universidades patagónicas.
