@@ -2,7 +2,7 @@
 title: Sistemas
 description: Organizacion de la infra para el FLISoL 2021
 published: true
-date: 2021-03-10T00:49:48.543Z
+date: 2021-03-10T01:05:29.638Z
 tags: flisol, flisol2021
 editor: markdown
 dateCreated: 2021-03-07T19:27:31.262Z
@@ -27,7 +27,7 @@ El grupo de sistemas tiene que resolver los siguientes temas:
 * Sistema de inscripciòn 
 
 
-Contacto: [Luis Zambrana](https://t.me/LuisZambrana) y [nyx](https://t.me/matias_mi)
+Grupo de Telegram para unirse: https://t.me/FLISoLPatagonia2021Sistemas
 
 ## Servicios
 
