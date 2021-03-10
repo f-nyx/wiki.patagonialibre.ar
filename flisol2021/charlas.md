@@ -2,7 +2,7 @@
 title: Charlas
 description: Acá coordinamos las charlas
 published: true
-date: 2021-03-10T01:00:41.963Z
+date: 2021-03-10T01:04:31.670Z
 tags: flisol, flisol2021
 editor: markdown
 dateCreated: 2021-03-07T20:25:48.037Z
