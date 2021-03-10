@@ -1,20 +1,31 @@
 ---
-title: Infraestructura
+title: Sistemas
 description: Organizacion de la infra para el FLISoL 2021
 published: true
-date: 2021-03-07T19:42:54.654Z
+date: 2021-03-10T00:49:33.648Z
 tags: flisol, flisol2021
 editor: markdown
 dateCreated: 2021-03-07T19:27:31.262Z
 ---
 
-# Infraestructura
+# Sistemas
 
-El grupo de infraestructura tiene los siguientes objetivos:
+El grupo de infraestructura tiene que resolver los siguientes temas:
 
-* Armar y mantener la infra para la organización y la gestión del evento
-* Preparar la infra para los días del evento
 * Procurar usar software libre
+* Salas virtuales (para los tracks)
+* Streaming
+* Foro/Discord Espacio de debate
+* Mantenimiento VPS
+* Dominios
+* Nube - Para volcar documentaciòn
+* Armado estructura web
+* Estructura Wiki
+* Armado Salas reuniones internas
+* Instalaciones guiadas
+* SEO / SOM
+* Sistema de inscripciòn 
+
 
 Contacto: [Luis Zambrana](https://t.me/LuisZambrana) y [nyx](https://t.me/matias_mi)
 
